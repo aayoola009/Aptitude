@@ -1,7 +1,0 @@
-rg = "aptitudeRG"
-location = "uk south"
-asp = "aptitudeASP"
-as = "aptitude-app-svc"
-law = "aptitude-law"
-sku_name = "P1v2"
-sku = "PerGB2018"
